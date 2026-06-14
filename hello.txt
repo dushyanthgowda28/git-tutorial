@@ -1,4 +1,3 @@
 hello git
 my second commit
 my third commit
-remove commit branch
